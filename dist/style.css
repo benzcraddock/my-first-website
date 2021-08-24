@@ -1,0 +1,49 @@
+/* Cascading Style Sheets */
+
+body {
+  margin: 0
+}
+
+main {
+  background-color: #F2E9E4;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 400px;
+  background-color: #FFFFFF;
+  padding: 32px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #22223B;
+  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 0;
+}
+
+p {
+  color: #4A4E69;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  margin-top: 8px;
+}
+
+img {
+  width: 140px;
+  height: 140px;
+  border-radius: 999px;
+}
+
+.links {
+  
+}
+
+a {
+  margin: 8px;
+}
